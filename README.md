@@ -3,7 +3,7 @@
 **🎓 Final Year CSE Student | 🌐 Aspiring Full-Stack Developer | 🤖 Passionate About AI & Tech Innovation**  
 📍 Chennai, India  
 📬 [mohameedidris17@gmail.com](mailto:mohameedidris17@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mohameed-idris) | [GitHub](https://github.com/Mohameedidris17)
+🔗 [LinkedIn](https://www.linkedin.com/in/mohameed-idris) | [GitHub](https://github.com/Mohameed-idris-17)
 
 ---
 
