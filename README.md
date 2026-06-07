@@ -108,13 +108,16 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohameed-idris-17&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10"/>
-</div>
 
----
+| 🥇 | 🥇 | 🥈 | 💻 |
+|:--:|:--:|:--:|:--:|
+| Debugging Comp | Codathon | AU Zonal Volleyball | 1300+ Problems |
+| DG Vaishnav College | Tagore Engineering | Anna University | SkillRack |
+
+</div>
 
 ## 🎯 Achievements
 
